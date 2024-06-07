@@ -13,10 +13,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=rafki-3078&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rafki-3078&theme=monokai&hide_border=false)<br/>
 
-# Job Sheet 1
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafki-3078&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rafki-3078&icon=0&color=11)](https://visitcount.itsvg.in)
+
+# Job Sheet 1
+Mata kuliah Praktikum Struktur Data mengajarkan konsep-konsep dasar dalam pemrograman struktur data menggunakan bahasa C, seperti pointer, struct, dan array, serta berbagai jenis linked list. Pointer, struct, dan array adalah fundamental untuk memahami bagaimana data dapat disimpan dan diakses secara efisien di dalam memori. Array menyediakan cara untuk menyimpan data berurutan, struct memungkinkan pengelompokan berbagai tipe data, sedangkan pointer menyediakan kemampuan untuk memanipulasi alamat memori secara langsung. Selain itu, mata kuliah ini membahas linked list yang terdiri dari single linked list, double linked list, dan circular linked list. Linked list adalah struktur data dinamis yang memungkinkan penambahan dan penghapusan elemen secara efisien. Single linked list menghubungkan elemen secara sekuensial dalam satu arah, double linked list memungkinkan navigasi dua arah, dan circular linked list menghubungkan elemen dalam siklus tertutup. Pemahaman mendalam tentang struktur data ini sangat penting dalam pengembangan algoritma yang efisien dan optimasi program komputer.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
