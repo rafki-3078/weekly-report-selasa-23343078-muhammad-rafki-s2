@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m College at Padang University<br>🌱 I’m currently learning C Language<br>⚡ My Hobby its Playing game, Modding game<br>🚧 My Experience I was once a developer on a fivem server which used C#, LUA, Javascript, HTML, CSS. I was also a modder on a fivem server there, I used Photoshop, CorelDraw. also manages the mysql based data base of the players who play on the server.
+🔭 I’m College at Padang University<br>🌱 I’m currently learning C Language<br>⚡ My Hobby its Playing game, Modding game , Traveling, Photography, drinking coffee<br>🚧 My Experience I was once a developer on a fivem server which used C#, LUA, Javascript, HTML, CSS. I was also a modder on a fivem server there, I used Photoshop, CorelDraw. also manages the mysql based data base of the players who play on the server.
 
 
 ## 🌐 Socials:
